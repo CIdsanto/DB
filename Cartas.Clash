@@ -1,0 +1,13 @@
+nombre:               Tipo:        Coste:    Tipo de ataque        Velocidad         Nivel Max 
+
+Esbirros              Rara         2         Tierra y Aereo        1 seg              3         
+Dragon                Epica        4         Tierra y Aereo        4 seg              44        
+Esbirros              Epica        2         Tierra                2 seg              4         
+Tesla                 Legendaria   5         Tierra y Aereo        2 seg              14        
+Mago                  Rara         3         Tierra y Aereo        3 seg              5         
+Zap                   Epica        3         Tierra y Aereo        2 seg              44        
+Peka                  Epica        8         Aereo                 5 seg              55        
+Minero                Legendaria   3         Aereo                 2 seg              33        
+Princesa              Legendaria   3         Tierra y Aereo        3 seg              4         
+Lenador               Legendaria   34        Tierra y Aereo        3 seg              3         
+Espejo                Legendaria   4         Tierra y Aereo        123 seg              22        
