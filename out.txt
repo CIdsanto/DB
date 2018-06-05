@@ -1,0 +1,6 @@
+
+Dragon                Epica        4         Tierra y Aereo        4 seg              44        
+Esbirros              Epica        2         Tierra                2 seg              4         
+Esbirros              Rara         2         Tierra y Aereo        1 seg              3         
+Tesla                 Legendaria   5         Tierra y Aereo        2 seg              14        
+nombre:               Tipo:        Coste:    Tipo de ataque        Velocidad         Nivel Max 
